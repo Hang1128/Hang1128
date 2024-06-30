@@ -1,5 +1,5 @@
-- 👋 Hello, I’m @Hang1128
-- 🌱 Tôi là người Việt Nam.
+- 👋 Hello, My name is Hang
+- 🌱 I am a data analytics student in International School of Vietnam National University (VNU)
 .
 
 <!---
